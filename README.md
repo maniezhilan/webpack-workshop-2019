@@ -25,6 +25,6 @@ These steps will assume that you have `cd`'d in your preferred editor to this re
 
 ## Contact
 * Email: mani@maniezhilan.org
-* Twitter: [@mani_shanmugam](https://twitter.com/mani_shanmugam)
+* Twitter: [@mani_ezhilan](https://twitter.com/mani_ezhilan)
 
 
